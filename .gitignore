@@ -1,0 +1,86 @@
+############################
+# Unity Generated Folders  #
+############################
+
+# 主缓存目录
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Unity 自动生成的 IDE 工程文件
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity 角色动画生成器
+*.pidb.meta
+
+############################
+# Scriptable Build Pipeline
+############################
+ScriptableBuildPipeline/
+
+############################
+# Crash Reports
+############################
+sysinfo.txt
+
+############################
+# Visual Studio / VSCode / Rider
+############################
+.vs/
+.vscode/
+.idea/
+*.visualstate.xml
+.vsconfig
+
+############################
+# OS (operating system)
+############################
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+############################
+# node / npm / yarn
+############################
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+############################
+# Build Artifacts
+############################
+*.apk
+*.unitypackage
+
+############################
+# TextMesh Pro (可选)
+############################
+Assets/TextMesh Pro/Resources/Font Assets/
+
+############################
+# Addressables
+############################
+# 可缓存文件
+Assets/AddressableAssetsData/*/*.bin*
